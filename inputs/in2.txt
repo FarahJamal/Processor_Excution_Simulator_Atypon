@@ -1,4 +1,4 @@
-PID   | PRIORITY     | ARRIVAL TIME | BURST TIME   |
+PID   | PRIORITY     | CREATION TIME | REQUESTED TIME   |
 ----------------------------------------------------
 P1    |      2(H)    |      0       |      1       |
 ----------------------------------------------------
